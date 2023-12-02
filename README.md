@@ -2,8 +2,11 @@
 ## Assignment
 ### Github Authentication
 -When authenticating, you give and confirm credentials unique to you to Github to prove that you are who you declare to be.
+
 #### Methods to be implemented
+
 -2FA is an extra layer of security when logging into sites and apps. With this method you need to firstly log in with USERNAME and PASSWORD, secondly you need to provide another form of authentication that only you have access to.
+
 -Github will also generate a code via SMS or the application on your phone, hence someone needs to have access to your phone and know your login IDs to access your account.
 
 
@@ -40,6 +43,9 @@
 
 ### 4 Github commands I will use in project
 -git clone: used to clone the repository that my colleague/project mates are working on
+
 -git add .: stages all files to be committed
+
 -git commit: commit all file to be pushed
+
 -git push: push all commits to repository
